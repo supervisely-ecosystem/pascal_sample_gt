@@ -9,7 +9,6 @@
 <p align="center">
 
   <a href="#overview">Overview</a> •
-  <a href="#description">Description</a> •
   <a href="#download">Download</a> •
   <a href="#statistics">Statistics</a> •
   <a href="#examples">Examples</a>
@@ -29,9 +28,6 @@
 
 ![](https://i.imgur.com/zTgUcxu.png)
 
-## Description 
-
-Data from `PascalVOC` is widely used as a benchmark for object detection, semantic segmentation.
 
 ## Download
 
