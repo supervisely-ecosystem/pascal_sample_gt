@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/Zt5Dvm6.png" width="100"/> 
 
-# PascalVOC Ground Truth Sample  
+# PascalVOC Ground Truth Sample (BBoxes)
 
 <p align="center">
 
