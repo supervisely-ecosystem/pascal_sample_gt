@@ -36,7 +36,7 @@ Data from `PascalVOC` is widely used as a benchmark for object detection, semant
 
 ## Download
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/gKL8sHhWkAsQ1z7) (130,6 MB).
+Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/gKL8sHhWkAsQ1z7/download) (130,6 MB).
 
 ## Statistics
 
