@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1716249,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 306,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56624909,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        18
+                    ],
+                    [
+                        498,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56624908,
+            "classId": 122037,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        99
+                    ],
+                    [
+                        497,
+                        305
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1716443,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 381,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56625337,
+            "classId": 122035,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        93
+                    ],
+                    [
+                        355,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625336,
+            "classId": 122035,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        185
+                    ],
+                    [
+                        226,
+                        268
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

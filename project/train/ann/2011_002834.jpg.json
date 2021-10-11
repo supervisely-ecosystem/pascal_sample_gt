@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1717275,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 288,
+        "width": 352
+    },
+    "objects": [
+        {
+            "id": 56626957,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        120
+                    ],
+                    [
+                        237,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

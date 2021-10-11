@@ -1,0 +1,164 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1716649,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 500,
+        "width": 334
+    },
+    "objects": [
+        {
+            "id": 56625716,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        59,
+                        360
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625715,
+            "classId": 122027,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        245
+                    ],
+                    [
+                        333,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625714,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        17
+                    ],
+                    [
+                        333,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625713,
+            "classId": 122027,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        203
+                    ],
+                    [
+                        251,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625712,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        0
+                    ],
+                    [
+                        269,
+                        459
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625711,
+            "classId": 122027,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        146
+                    ],
+                    [
+                        54,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1717172,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56626784,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        399,
+                        53
+                    ],
+                    [
+                        434,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626783,
+            "classId": 122032,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        86
+                    ],
+                    [
+                        418,
+                        151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626782,
+            "classId": 122032,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        61
+                    ],
+                    [
+                        282,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626781,
+            "classId": 122027,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        116
+                    ],
+                    [
+                        300,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626780,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        16
+                    ],
+                    [
+                        411,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

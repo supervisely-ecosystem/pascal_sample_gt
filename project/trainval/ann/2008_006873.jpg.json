@@ -1,0 +1,164 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1716711,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 281,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56625972,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        115
+                    ],
+                    [
+                        137,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625971,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        167
+                    ],
+                    [
+                        128,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625970,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        0
+                    ],
+                    [
+                        254,
+                        21
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625969,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        95
+                    ],
+                    [
+                        295,
+                        159
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625968,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        227,
+                        3
+                    ],
+                    [
+                        238,
+                        12
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625967,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        127
+                    ],
+                    [
+                        154,
+                        134
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

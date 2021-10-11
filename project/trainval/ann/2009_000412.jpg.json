@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1716390,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 354,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56625194,
+            "classId": 122039,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "horse",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        45
+                    ],
+                    [
+                        427,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625193,
+            "classId": 122039,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "horse",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        57
+                    ],
+                    [
+                        214,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625192,
+            "classId": 122039,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "horse",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        76
+                    ],
+                    [
+                        499,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

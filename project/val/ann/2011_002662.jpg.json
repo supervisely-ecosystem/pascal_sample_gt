@@ -1,0 +1,140 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1716901,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 332,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56626193,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        266
+                    ],
+                    [
+                        92,
+                        272
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626192,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        252,
+                        255
+                    ],
+                    [
+                        287,
+                        271
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626191,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        261
+                    ],
+                    [
+                        457,
+                        277
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626190,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        235,
+                        267
+                    ],
+                    [
+                        248,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626189,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        71,
+                        254
+                    ],
+                    [
+                        100,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1717324,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56627071,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        168,
+                        165
+                    ],
+                    [
+                        302,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56627070,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        101
+                    ],
+                    [
+                        451,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

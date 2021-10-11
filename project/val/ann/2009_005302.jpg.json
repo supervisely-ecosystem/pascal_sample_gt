@@ -1,0 +1,212 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1716881,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 381,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56626231,
+            "classId": 122030,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        211,
+                        112
+                    ],
+                    [
+                        260,
+                        288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626230,
+            "classId": 122030,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        109
+                    ],
+                    [
+                        155,
+                        276
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626229,
+            "classId": 122030,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        336,
+                        106
+                    ],
+                    [
+                        386,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626228,
+            "classId": 122030,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        117
+                    ],
+                    [
+                        499,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626227,
+            "classId": 122030,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        105
+                    ],
+                    [
+                        84,
+                        267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626226,
+            "classId": 122030,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        273,
+                        115
+                    ],
+                    [
+                        323,
+                        291
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626225,
+            "classId": 122030,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        111
+                    ],
+                    [
+                        208,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626224,
+            "classId": 122030,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        113
+                    ],
+                    [
+                        441,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

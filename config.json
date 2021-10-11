@@ -1,0 +1,12 @@
+{
+  "name": "PascalVOC GT (Sample)",
+  "description": "1171 sample ground truth images from PascalVOC dataset",
+  "type": "project",
+  "categories": [
+    "labeled data",
+    "semantic segmentation",
+    "images"
+  ],
+  "icon": "https://i.imgur.com/EokfMn8.png",
+  "icon_cover": true
+}

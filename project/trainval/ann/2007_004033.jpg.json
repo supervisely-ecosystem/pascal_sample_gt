@@ -1,0 +1,116 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1716489,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 342,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56625444,
+            "classId": 122040,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        0
+                    ],
+                    [
+                        437,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625443,
+            "classId": 122040,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        39
+                    ],
+                    [
+                        221,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625442,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        71,
+                        9
+                    ],
+                    [
+                        121,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625441,
+            "classId": 122040,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        187,
+                        9
+                    ],
+                    [
+                        318,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1717113,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 327,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56626710,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        157,
+                        151
+                    ],
+                    [
+                        256,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626709,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        193
+                    ],
+                    [
+                        469,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626708,
+            "classId": 122042,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        141
+                    ],
+                    [
+                        276,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

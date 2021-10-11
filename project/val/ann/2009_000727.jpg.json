@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1717036,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 319,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 56626533,
+            "classId": 122041,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        228,
+                        79
+                    ],
+                    [
+                        287,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626532,
+            "classId": 122039,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "horse",
+            "points": {
+                "exterior": [
+                    [
+                        185,
+                        92
+                    ],
+                    [
+                        388,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

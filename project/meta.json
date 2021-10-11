@@ -1,0 +1,152 @@
+{
+    "classes": [
+        {
+            "title": "bicycle",
+            "shape": "rectangle",
+            "color": "#008000",
+            "geometry_config": {},
+            "id": 122027,
+            "hotkey": ""
+        },
+        {
+            "title": "bird",
+            "shape": "rectangle",
+            "color": "#808000",
+            "geometry_config": {},
+            "id": 122028,
+            "hotkey": ""
+        },
+        {
+            "title": "boat",
+            "shape": "rectangle",
+            "color": "#000080",
+            "geometry_config": {},
+            "id": 122029,
+            "hotkey": ""
+        },
+        {
+            "title": "bottle",
+            "shape": "rectangle",
+            "color": "#800080",
+            "geometry_config": {},
+            "id": 122030,
+            "hotkey": ""
+        },
+        {
+            "title": "bus",
+            "shape": "rectangle",
+            "color": "#008080",
+            "geometry_config": {},
+            "id": 122031,
+            "hotkey": ""
+        },
+        {
+            "title": "car",
+            "shape": "rectangle",
+            "color": "#808080",
+            "geometry_config": {},
+            "id": 122032,
+            "hotkey": ""
+        },
+        {
+            "title": "cat",
+            "shape": "rectangle",
+            "color": "#400000",
+            "geometry_config": {},
+            "id": 122033,
+            "hotkey": ""
+        },
+        {
+            "title": "chair",
+            "shape": "rectangle",
+            "color": "#C00000",
+            "geometry_config": {},
+            "id": 122034,
+            "hotkey": ""
+        },
+        {
+            "title": "cow",
+            "shape": "rectangle",
+            "color": "#408000",
+            "geometry_config": {},
+            "id": 122035,
+            "hotkey": ""
+        },
+        {
+            "title": "delme",
+            "shape": "bitmap",
+            "color": "#275A72",
+            "geometry_config": {},
+            "id": 122036,
+            "hotkey": ""
+        },
+        {
+            "title": "dog",
+            "shape": "rectangle",
+            "color": "#400080",
+            "geometry_config": {},
+            "id": 122037,
+            "hotkey": ""
+        },
+        {
+            "title": "gt_class",
+            "shape": "bitmap",
+            "color": "#1057A2",
+            "geometry_config": {},
+            "id": 122038,
+            "hotkey": ""
+        },
+        {
+            "title": "horse",
+            "shape": "rectangle",
+            "color": "#C00080",
+            "geometry_config": {},
+            "id": 122039,
+            "hotkey": ""
+        },
+        {
+            "title": "motorbike",
+            "shape": "rectangle",
+            "color": "#408080",
+            "geometry_config": {},
+            "id": 122040,
+            "hotkey": ""
+        },
+        {
+            "title": "person",
+            "shape": "rectangle",
+            "color": "#C08080",
+            "geometry_config": {},
+            "id": 122041,
+            "hotkey": ""
+        },
+        {
+            "title": "sheep",
+            "shape": "rectangle",
+            "color": "#804000",
+            "geometry_config": {},
+            "id": 122042,
+            "hotkey": ""
+        },
+        {
+            "title": "train",
+            "shape": "rectangle",
+            "color": "#80C000",
+            "geometry_config": {},
+            "id": 122043,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "train",
+            "value_type": "none",
+            "color": "#0F5E8A",
+            "id": 236186,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

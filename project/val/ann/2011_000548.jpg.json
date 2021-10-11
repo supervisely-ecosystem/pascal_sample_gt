@@ -1,0 +1,284 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1717016,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 273,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56626500,
+            "classId": 122035,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        38
+                    ],
+                    [
+                        421,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626499,
+            "classId": 122035,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        184,
+                        75
+                    ],
+                    [
+                        349,
+                        217
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626498,
+            "classId": 122035,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        43
+                    ],
+                    [
+                        493,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626497,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        175
+                    ],
+                    [
+                        70,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626496,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        115,
+                        194
+                    ],
+                    [
+                        140,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626495,
+            "classId": 122035,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        61
+                    ],
+                    [
+                        406,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626494,
+            "classId": 122035,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        409,
+                        35
+                    ],
+                    [
+                        458,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626493,
+            "classId": 122035,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        67
+                    ],
+                    [
+                        283,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626492,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        126
+                    ],
+                    [
+                        16,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626491,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        160,
+                        138
+                    ],
+                    [
+                        174,
+                        180
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56626490,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        73,
+                        147
+                    ],
+                    [
+                        107,
+                        165
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 1716801,
+            "tagId": 236186,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z"
+        }
+    ],
+    "size": {
+        "height": 500,
+        "width": 389
+    },
+    "objects": [
+        {
+            "id": 56625979,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        151
+                    ],
+                    [
+                        176,
+                        489
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56625978,
+            "classId": 122028,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "admin",
+            "createdAt": "2021-10-11T14:04:12.590Z",
+            "updatedAt": "2021-10-11T14:04:12.590Z",
+            "tags": [],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        77
+                    ],
+                    [
+                        302,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
