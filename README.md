@@ -17,9 +17,9 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/lemons-annotated)
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/lemons-annotated&counter=views&label=views)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/lemons-annotated&counter=downloads&label=downloads)](https://supervise.ly)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/pascal_sample_gt)
+[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/pascal_sample_gt&counter=views&label=views)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/pascal_sample_gt&counter=downloads&label=downloads)](https://supervise.ly)
 </div>
 
 
@@ -28,7 +28,7 @@
 
  `pascal_sample_gt` is a sample project with the total of 1171 images from PascalVOC `train`, `val` (and mixed `trainval`) subsets. 
 
-![](https://i.imgur.com/94p4Ysf.jpg)
+![](https://i.imgur.com/zTgUcxu.png)
 
 ## Description 
 
@@ -42,11 +42,11 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/gKL8sHh
 
 Project contains 3 datasets with 1171 images in it, with a total of 2244 annotated objects. 
 
-![](https://i.imgur.com/AI7ECrG.png)
+![](https://i.imgur.com/k9rAsaP.png)
 
 ## Examples
 
-![](https://i.imgur.com/wd243ip.png) ![](https://i.imgur.com/ldSWlUG.png) 
+![](https://i.imgur.com/PFjX0Nz.png) ![](https://i.imgur.com/xIZXRzy.png) 
 
 ## How To Import
 
