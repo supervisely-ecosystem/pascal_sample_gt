@@ -3,9 +3,9 @@
   "description": "1171 sample ground truth images from PascalVOC dataset",
   "type": "project",
   "categories": [
-    "labeled data",
-    "semantic segmentation",
-    "images"
+    "import",
+    "images",
+    "project"
   ],
   "icon": "https://i.imgur.com/SiFXFiX.png",
   "icon_cover": true
