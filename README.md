@@ -2,9 +2,9 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
 
-<img src="https://i.imgur.com/Zt5Dvm6.png" width="100"/> 
+<img src="https://i.imgur.com/iNC4OfD.png" width="100"/> 
 
-# PascalVOC Ground Truth Sample (BBoxes)
+# PascalVOC Ground Truth BBoxes (Sample)
 
 <p align="center">
 
