@@ -1,6 +1,6 @@
 {
   "name": "PascalVOC GT BBoxes (Sample)",
-  "description": "1171 sample ground truth images from PascalVOC dataset",
+  "description": "1171 sample gt-labeled images",
   "type": "project",
   "categories": [
     "import",
