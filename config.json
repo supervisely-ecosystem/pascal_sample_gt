@@ -1,5 +1,5 @@
 {
-  "name": "PascalVOC Ground Truth BBoxes (Sample)",
+  "name": "PascalVOC GT BBoxes (Sample)",
   "description": "1171 sample ground truth images from PascalVOC dataset",
   "type": "project",
   "categories": [
@@ -8,5 +8,5 @@
     "project"
   ],
   "icon": "https://i.imgur.com/jKyw7MM.png",
-  "icon_cover": true
+  "icon_cover": false
 }
