@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
+<img src="media/eco.png" width="250"/> <br>
 
-<img src="https://i.imgur.com/iNC4OfD.png" width="100"/> 
+<img src="media/icon.png" width="100"/> 
 
 # PascalVOC Ground Truth BBoxes (Sample)
 
@@ -26,7 +26,7 @@
 
  `pascal_sample_gt` is a sample project with the total of 1171 images from PascalVOC `train`, `val` (and mixed `trainval`) subsets. 
 
-![](https://i.imgur.com/zTgUcxu.png)
+![](media/ov1.png)
 
 
 ## Download
@@ -37,8 +37,8 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/gKL8sHh
 
 Project contains 3 datasets with 1171 images in it, with a total of 2244 annotated objects. 
 
-![](https://i.imgur.com/k9rAsaP.png)
+![](media/stat.png)
 
 ## Examples
 
-![](https://i.imgur.com/PFjX0Nz.png) ![](https://i.imgur.com/xIZXRzy.png) 
+![](media/ex1.png) ![](media/ex2.png) 
