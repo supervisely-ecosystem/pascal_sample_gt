@@ -31,7 +31,7 @@
 
 ## Download
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/gKL8sHhWkAsQ1z7/download) (130,6 MB).
+Direct download: [tar archive](https://github.com/supervisely-ecosystem/pascal_sample_gt/releases/download/v1.0.0/project.zip) (130,6 MB).
 
 ## Statistics
 
